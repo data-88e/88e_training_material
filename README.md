@@ -52,7 +52,9 @@ The same content is offered in **three parallel formats**:
 This repo doubles as a **sandbox for learning AI workflows**:
 
 - **Custom LLMs:**  
-  Experiment with uploading the mega files into tools like **Custom GPTs, Claude Projects, or Gemini Apps**. Compare how they answer student questions.  
+  Experiment with uploading the mega files into tools like **Custom GPTs, Claude Projects, or Gemini Apps**. Compare how they answer student questions.
+
+   - - https://gemini.google.com/gem/b8a28107b468
 
 - **RAG (Retrieval-Augmented Generation):**  
   Store the **individual Markdown files** in a vector database (e.g., Chroma, FAISS, Weaviate). Build a simple retrieval pipeline to answer questions from the textbook.  
